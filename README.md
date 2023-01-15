@@ -4,7 +4,7 @@
 <br>
 <br>
 
-<p align="center"><img align="center" src="https://designbuffs.com/wp-content/uploads/2020/11/Boy-Working-From-Home.gif" alt="adam-pw" /></p>
+<p align="center"><img align="center" src="https://cdn.dribbble.com/users/605032/screenshots/3196252/media/095306a51ec6fa0358b60b3058f1dd8e.gif" alt="adam-pw" /></p>
 <br>
 <br>
 
@@ -51,7 +51,7 @@
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=nehaantony2000&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=abitmon&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="adam-pw" 
     bg_color=#808080/></p>
 
