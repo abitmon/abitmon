@@ -4,7 +4,7 @@
 <br>
 <br>
 
-<p align="center"><img align="center" src="https://thumbs.gfycat.com/BelatedVeneratedKiskadee-max-1mb.gif" alt="adam-pw" /></p>
+<p align="center"><img align="center" src="https://blog.zoho.com/sites/zblogs/images/cliq/new-converted-2019-08.gif" alt="adam-pw" /></p>
 <br>
 <br>
 
